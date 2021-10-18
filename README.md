@@ -1,35 +1,46 @@
 ## 阮睿
 
+### 个人信息
+
+邮箱地址：ruanrui@cufe.edu.cn
+
+通信地址：北京市昌平区高教园中央财经大学沙河校区学院楼 10 号楼 133
+
+### 工作经历
+
+中央财经大学中国财政发展协同创新中心
+
+### 教育经历
+
+中国人民大学经济学院
+
+* 经济学博士 专业：企业经济学
+* 经济学硕士 专业：企业经济学
+
+斯德哥尔摩经济学院（SSE）中国经济研究中心
+
+* 访问博士生
+
+山东大学经济学院
+
+* 经济学学士/理学学士       专业：金融工程/数学
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 发表论文
 
-```markdown
-Syntax highlighted code block
+阮睿, 孙宇辰, 唐悦, 聂辉华. 资本市场开放能否提高企业信息披露质量?——基于“沪港通”和年报文本挖掘的分析
+[J]. 金融研究,2021(02):188-206.
 
-# Header 1
-## Header 2
-### Header 3
+聂辉华，阮睿，宋佳义. 为了指标而竞争：来自中国煤矿企业的证据 [J]. 经济理论与经济管理，2020(9):36-49.（通讯作者）
 
-- Bulleted
-- List
+聂辉华，阮睿，沈吉. 企业经济政策不确定性感知、投资决策和金融资产配置 [J]. 世界经济，2020(6):77-98.
 
-1. Numbered
-2. List
+聂辉华，阮睿，宋佳义. 地方政府如何面对安全与增长的两难冲突？——来自煤矿关闭的证据 [J]. 山东大学学报（哲学社会科学版），2019(3):92-107.（《新华文摘（网络版）》全文转载）
 
-**Bold** and _Italic_ and `Code` text
+聂辉华，阮睿，李琛. 从完全契约理论到不完全契约理论——2016 年诺贝尔经济学奖评析 [J]. 中央财经大学学报，2016(12):129-135.
 
-[Link](url) and ![Image](src)
-```
+### 科研评审
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+《金融研究》匿名审稿专家。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RUANRui-ECON/RUANRui-ECON.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
