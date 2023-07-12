@@ -35,7 +35,7 @@ Office Hour: 周四下午14:00-17:00
 
 ### 发表论文
 #### 中文
-[8] 张成思，孙宇辰，阮睿，经济政策不确定性、企业货币政策感知与实业投资[J]. **财贸经济**，即将发表。
+[8] 张成思，孙宇辰，阮睿，经济政策不确定性、企业货币政策感知与实业投资[J]. **财贸经济**，2023(7)。
 
 [7] 方明月，聂辉华，阮睿，沈昕毅. 企业数字化转型与经济政策不确定性感知[J]. **金融研究**，2023(2):21-39.
 
@@ -53,6 +53,7 @@ Office Hour: 周四下午14:00-17:00
 [1] 聂辉华，阮睿，李琛. 从完全契约理论到不完全契约理论——2016 年诺贝尔经济学奖评析 [J]. 中央财经大学学报，2016(12):129-135.
 
 #### 英文
+[2] Fang, M., Ruan, R. State-owned Enterprises in China as Macroeconomic Stabilizers: Their Special Function in Times of Economic Policy Uncertainty. China & World Economy, R&R
 [1] Zhou, H., Zhang, X. & Ruan, R. (2023). Firm’s perception of Economic Policy Uncertainty and corporate innovation efficiency. Journal of Innovation & Knowledge, Forthcoming.
 
 ### 教学成果
