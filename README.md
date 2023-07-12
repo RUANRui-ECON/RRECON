@@ -55,7 +55,7 @@ Office Hour: 周四下午14:00-17:00
 #### 英文
 [2] Fang, M., Ruan, R. State-owned Enterprises in China as Macroeconomic Stabilizers: Their Special Function in Times of Economic Policy Uncertainty. China & World Economy, R&R.
 
-[1] Zhou, H., Zhang, X. & Ruan, R. (2023). Firm’s perception of Economic Policy Uncertainty and corporate innovation efficiency. Journal of Innovation & Knowledge, Forthcoming.
+[1] Zhou, H., Zhang, X., & Ruan, R. (2023). Firm's perception of economic policy uncertainty and corporate innovation efficiency. Journal of Innovation & Knowledge, 8(3), 100371.
 
 ### 教学成果
 
